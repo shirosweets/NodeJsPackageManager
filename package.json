@@ -11,10 +11,10 @@
     },
     "dependencies": {
         "@shagstrom/split-pane": "^0.9.4",
-        "@types/angular": "^1.6.27",
+        "@types/angular": "^1.8.4",
         "@types/bootstrap": "^3.3.35",
         "@types/jquery": "^3.2.9",
-        "angular": "^1.7.9",
+        "angular": "^1.8.3",
         "angular-sanitize": "^1.6.5",
         "animate.css": "^3.5.2",
         "bootstrap": "^3.3.7",
